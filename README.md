@@ -11,3 +11,5 @@ Projects will break if one moves old code into a new project.  The new templates
 	 	"directory": "./public"
 	 },
 ```
+
+bug submitted: https://github.com/cloudflare/workers-sdk/issues/9140
